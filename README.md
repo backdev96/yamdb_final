@@ -14,10 +14,13 @@ Installation:
 1) Clone the repo
     git clone https://github.com/backdev96/infra_sp2
 2) Docker compose
+
     docker-compose up
+    
 Usage:
 
 Superuser creation:
+
     docker-compose run web python manage.py createsuperuser
     
 Documentation available at /redoc
