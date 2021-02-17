@@ -1,4 +1,4 @@
-[![Yamdb-app workflow](https://github.com/backdev96/yamdb_final/workflows/Yamdb-app_workflow/badge.svg)](https://github.com/backdev96/yamdb_final_docker/actions)
+[![Yamdb_final workflow](https://github.com/backdev96/yamdb_final/workflows/Yamdb-app_workflow/badge.svg)](https://github.com/backdev96/yamdb_final/actions)
 
 Author: Efremov Stanislav
 
