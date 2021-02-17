@@ -1,2 +1,1 @@
-# yamdb_final
-yamdb_final
+[![Yamdb-app workflow](https://github.com/meat9/yamdb_final/workflows/Yamdb-app_workflow/badge.svg)](https://github.com/backdev96/yamdb_final_docker/actions)
