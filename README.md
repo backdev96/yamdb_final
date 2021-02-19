@@ -10,3 +10,22 @@ Built with:
 - PostgreSQL
 - Docker
 - nginx
+
+Build and run your app with Compose:
+
+    1) docker-compose build
+
+    2) docker-compose up
+
+Perform migrations:
+
+    docker-compose run web python manage.py migrate
+
+Django loaddata command:
+
+    docker-compose run web python manage.py loaddata fixtures.json
+
+Superuser creation:
+
+    docker-compose run web python manage.py createsuperuser
+    
