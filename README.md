@@ -29,3 +29,7 @@ Superuser creation:
 
     docker-compose run web python manage.py createsuperuser
 
+License:
+
+    Apache License 2.0
+
