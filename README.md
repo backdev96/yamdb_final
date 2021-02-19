@@ -21,11 +21,11 @@ Perform migrations:
 
     docker-compose run web python manage.py migrate
 
-Django loaddata command:
+Database load data command:
 
     docker-compose run web python manage.py loaddata fixtures.json
 
 Superuser creation:
 
     docker-compose run web python manage.py createsuperuser
-    
+
